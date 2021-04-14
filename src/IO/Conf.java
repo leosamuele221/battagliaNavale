@@ -6,7 +6,7 @@ import java.io.*;
 /*
 La prima riga del file è la porta
 
-1:8090
+1:8080
  */
 
 public class Conf {
